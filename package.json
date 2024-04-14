@@ -29,5 +29,9 @@
     "prettier-plugin-tailwindcss": "^0.5.12",
     "tailwindcss": "^3.4.1",
     "typescript": "^5.4.3"
-  }
+  },
+  "description": "The theme is built with Svelte but you can use any framework you like (React, Vue, Solid etc.) thanks to Astro. Tailwind UI free components are used for the design.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
